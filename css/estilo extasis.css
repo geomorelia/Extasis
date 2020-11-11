@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	text-decoration: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+ body{
+	 background-image:url("../img/extasis.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align:center;
+	width: 600px;
+	height:600px;
+	margin: 0 auto;
+ }
+
+#contenedor {
+	margin: 0 auto;
+	position:relative;
+	
+}
+
+#repro {
+	width: 600px;
+	text-align:center;
+	margin: 0 auto;
+	position:absolute;
+	top:435px;
+}
+
+
+#datos {
+	;
+	background-repeat: repeat-y;
+	background-position: center;
+	text-align:center;
+	max-height:160px;
+	margin: 0 auto;
+	position:absolute;
+	top:285px;
+	left:0;
+	right:0;
+	
+}
