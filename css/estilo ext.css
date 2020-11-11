@@ -10,6 +10,8 @@
 
 
 #contenedor {
+	
+	background-image:url("../img/fnd-datos.fw.png");
 	text-align:center;
 	width: 600px;
 	margin: 0 auto;
